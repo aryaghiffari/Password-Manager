@@ -1,6 +1,6 @@
 # 🔐 Password Manager
 
-Password Manager adalah aplikasi desktop **Portable** sederhana berbasis **Python + CustomTkinter** untuk menyimpan, mengelola, dan mengamankan informasi login Anda.  
+Password Manager merupakan aplikasi desktop **Portable** sederhana berbasis **Python + CustomTkinter** untuk menyimpan, mengelola, dan mengamankan informasi login Anda.  
 Aplikasi ini dibuat untuk mempermudah pengelolaan banyak akun tanpa harus mengingat satu per satu password.  
 
 ---
@@ -49,4 +49,7 @@ Aplikasi ini dibuat untuk mempermudah pengelolaan banyak akun tanpa harus mengin
 3. Copy path .exe dan buat shortcut ke desktop
 4. Jalankan .exe
 
+---
+## Icon aplikasi
+https://icon-icons.com/id/icon/jendela-keamanan/36824
   
