@@ -46,7 +46,7 @@ Aplikasi ini dibuat untuk mempermudah pengelolaan banyak akun tanpa harus mengin
 ## 🚀 Cara Menjalankan
 
 1. Clone repo ini atau download sebagai .zip.
-2. Ekstrak / salin aplikasi ke folder baru, lalu simpan di path yang aman.
+2. Ekstrak atau salin aplikasi ke folder baru, lalu simpan di path yang aman.
    Contoh: C:\Program Files\Password Manager\PasswordManager.exe
 3. Buat shortcut dari file .exe ke Desktop agar mudah diakses
 4. Jalankan aplikasi melalui shortcut atau langsung klik file .exe.
