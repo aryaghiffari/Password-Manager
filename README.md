@@ -29,7 +29,8 @@ Aplikasi ini dibuat untuk mempermudah pengelolaan banyak akun tanpa harus mengin
 
 - **Keamanan Aplikasi**  
   Atur password login untuk membuka aplikasi. Bisa diaktifkan maupun dinonaktifkan sesuai kebutuhan.  
-  ![settings](https://i.ibb.co/GfWZLdk9/Screenshot-1229.png)  
+  ![settings](https://i.ibb.co/GfWZLdk9/Screenshot-1229.png)
+  Login untuk mengamankan aplikasi, karena aplikasi berisi informasi penting
   ![login aplikasi](https://i.ibb.co/kVMp98Fk/Screenshot-1230.png)
 
 ---
@@ -45,7 +46,7 @@ Aplikasi ini dibuat untuk mempermudah pengelolaan banyak akun tanpa harus mengin
 ## 🚀 Cara Menjalankan
 
 1. Clone repo ini atau download sebagai `.zip`
-2. Buat folder baru dan simpan di path yg aman contoh C:\Program Files\password manager\PasswordManager.exe
+2. Buat folder baru dan simpan di path yg aman. contoh C:\Program Files\password manager\PasswordManager.exe
 3. Copy path .exe dan buat shortcut ke desktop
 4. Jalankan .exe
 
