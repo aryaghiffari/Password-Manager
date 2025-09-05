@@ -51,6 +51,10 @@ Aplikasi ini dibuat untuk mempermudah pengelolaan banyak akun tanpa harus mengin
 3. Buat shortcut dari file .exe ke Desktop agar mudah diakses
 4. Jalankan aplikasi melalui shortcut atau langsung klik file .exe.
 
+--- 
+Tutorial download, instalasi dan Demo Aplikasi
+[Klik Disini](https://youtu.be/yLTLO2CcA54)
+
 ---
 ## Icon aplikasi
 https://icon-icons.com/id/icon/jendela-keamanan/36824
