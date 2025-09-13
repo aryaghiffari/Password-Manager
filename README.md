@@ -1,7 +1,7 @@
 # 🔐 Password Manager
 
 Password Manager merupakan aplikasi desktop **Portable** sederhana berbasis **Python + CustomTkinter** untuk menyimpan, mengelola, dan mengamankan informasi login Anda.  
-Aplikasi ini dibuat untuk mempermudah pengelolaan banyak akun tanpa harus mengingat satu per satu password.  
+Aplikasi ini dibuat untuk mempermudah pengelolaan banyak akun tanpa harus mengingat satu per satu password. Aplikasi dan informasi yang tersimpan berjalan dengan **Penyimpanan LOKAL di Komputer anda dan tanpa memerlukan Internet** 
 
 ---
 
